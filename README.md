@@ -1,6 +1,6 @@
 ## My profile👍
 
-Frontend coder
+Frontend coder  
 [Suzunatsu website](https://www.suzunatsu.com)
 
 ### Languages
