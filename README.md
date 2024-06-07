@@ -3,7 +3,7 @@
 Frontend coder
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,jQuery,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,js)](https://skillicons.dev)
 
 ## Personal Use
 [![My Skills](https://skillicons.dev/icons?i=astro,tailwind,md,cloudflare)](https://skillicons.dev)
