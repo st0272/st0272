@@ -1,7 +1,7 @@
 ## My profile👍
 
 Frontend coder  
-[Suzunatsu website](https://www.suzunatsu.com)
+[Suzunatsu website](https://www.suzunatsu.com/?utm_source=gh)
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,jquery,js)](https://skillicons.dev)
