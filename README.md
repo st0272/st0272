@@ -1,6 +1,6 @@
 ## My profile👍
 
-Frontend coder  
+Coder(frontend) 
 [My website](https://www.suzunatsu.com/?utm_source=gh)
 
 ### Languages
