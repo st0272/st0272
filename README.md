@@ -20,3 +20,5 @@ Markup engineer
 
 ### Environment
 [![My Skills](https://skillicons.dev/icons?i=vscode,windows)](https://skillicons.dev)
+
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=st0272&color=blueviolet)
