@@ -1,16 +1,13 @@
 ## My profile👍
 
-Markup engineer
+Markup engineer  
 [My website](https://www.suzunatsu.com/?utm_source=gh)
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,jquery,js)](https://skillicons.dev)
 
-### Studying Languages anf frameworks
+### Studying Languages and frameworks
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,php)](https://skillicons.dev)
-
-### Environment
-[![My Skills](https://skillicons.dev/icons?i=vscode,windows)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,nodejs,pnpm,vite)](https://skillicons.dev)
@@ -20,3 +17,6 @@ Markup engineer
 
 ### Personal Use (past)
 [![My Skills](https://skillicons.dev/icons?i=wordpress,sass,nuxtjs,netlify,npm)](https://skillicons.dev)
+
+### Environment
+[![My Skills](https://skillicons.dev/icons?i=vscode,windows)](https://skillicons.dev)
